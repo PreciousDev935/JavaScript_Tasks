@@ -12,4 +12,4 @@ function sockMerchant(n, ar) {
 
   return pairs;
 }
-console.log(sockMerchant (9, [10, 20, 20, 10, 10, 30, 50, 10, 20])); // Output: 3
+console.log(sockMerchant (9, [10, 20, 20, 10, 10, 30, 50, 10, 20]));
